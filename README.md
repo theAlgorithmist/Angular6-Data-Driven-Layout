@@ -16,7 +16,7 @@ Angular CLI: 6.2.3
 
 Demo Version: 1.0
 
-##Overview
+## Overview
 
 I have used dynamic component generation/rendering in both Flex and Angular for a wide variety of clients.  Use cases cover the entire gamut from conditional component display based on user roles and application progress to runtime-driven (variable) layout of a fixed component set.  This particular demo could have been implemented with _*ngIf_ directives and _boolean_ flags computed from external data.  Such an approach is, however, more difficult to scale and requires template modification as the number of variable components increases.  
 
