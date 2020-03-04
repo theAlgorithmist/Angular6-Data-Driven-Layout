@@ -2,7 +2,7 @@
 
 Although I do a lot of work with low-level libraries in various languages, high-level architecture is one of my favorite topics.  After all, if the architecture is bad, then all the libraries in the world won't hold the application together :)  Metadata-driven architectures (that encompass plugins) are an accepted way to architect and build a very large, highly scalable, and extensible product.  Defining layout and components via data requires the ability to decouple data definition and components from rendering.  Angular provides the _ComponentFactoryResolver_ as a means to dynamically instantiate components.  This factory resolver is used in a demo where components are laid out and internally defined based on external data.
 
-Author:  Jim Armstrong - [The Algorithmist](http://www.algorithmist.net)
+Author:  Jim Armstrong - [The Algorithmist](https://www.linkedin.com/in/jimarmstrong)
 
 @algorithmist
 
